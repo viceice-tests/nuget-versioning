@@ -5,6 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Update="Microsoft.VisualStudio.Shell.Interop" Version="16.9.31023.347" />
+    <PackageReference Update="Microsoft.VisualStudio.Shell.Interop" Version="17.9.37000" />
   </ItemGroup>
 </Project>
